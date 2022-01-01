@@ -11,9 +11,9 @@ using System.Timers;
 
 namespace CoinTradingWithElonMusk
 {
-    public partial class Service1 : ServiceBase
+    public partial class MainService : ServiceBase
     {
-        public Service1()
+        public MainService()
         {
             InitializeComponent();
         }
