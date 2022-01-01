@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Settings.cs" />
+    <Compile Include="Models\UpbitAccessInfo.cs" />
     <Compile Include="MainService.cs">
       <SubType>Component</SubType>
     </Compile>
